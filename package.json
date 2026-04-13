@@ -4,9 +4,12 @@
   "description": "",
   "license": "ISC",
   "author": "Ayush koli",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon "
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
   }
 }
