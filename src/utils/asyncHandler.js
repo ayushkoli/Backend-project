@@ -8,7 +8,6 @@ const asyncHandler = (fn)=>{
 
 export { asyncHandler }
 
-
 /*
 Try catch Handler
 
